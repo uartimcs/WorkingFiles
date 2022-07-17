@@ -1,0 +1,56 @@
+body {
+    background-color: #D9D1D9;
+    font-size: 14px;
+    margin: 0px;
+}
+tr {
+    text-align: center;
+    border: 1px solid;
+}
+
+td {
+    padding: 10px;
+    text-align: left;
+}
+
+table {
+    border: 1px dotted;
+    padding: 10px;
+    margin: 10px;
+    width: 80%;
+    height: 15%;
+    
+}
+
+
+div {
+    background: cornflowerblue;
+    padding: 0px;
+    
+    
+}
+
+thead {
+    background-color: #430599;
+    color: white;
+    font-style: italic;
+}
+
+#topper {
+    margin-top: 0px;
+    color: gold;
+    
+}
+
+#front {
+    width: 100%;
+    height: 600px;
+    background-color: purple;
+}
+
+#navbar {
+    background-color: lightpink;
+    width: 100%;
+    margin: 0px;
+    
+}
